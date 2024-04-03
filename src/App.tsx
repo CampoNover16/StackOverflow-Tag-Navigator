@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container, Typography } from '@mui/material';
-import TagsBrowser from './TagsBrowser';
+import TagsBrowser from './components/TagsBrowser';
 
 const App: React.FC = () => {
   return (
